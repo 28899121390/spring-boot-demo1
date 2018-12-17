@@ -14,6 +14,7 @@ public class FastJsonConf {
 
     @Bean
     public HttpMessageConverters fastJsonHttpMessageConverters() {
+        System.out.println("bbbbbbbbbbbbbbbbbb");
         System.out.println("aaaaaaaaaaaaaaa");
         //1. 需要定义一个converter转换消息的对象
         FastJsonHttpMessageConverter fasHttpMessageConverter = new FastJsonHttpMessageConverter();
