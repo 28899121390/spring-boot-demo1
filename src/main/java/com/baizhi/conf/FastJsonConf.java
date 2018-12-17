@@ -37,4 +37,8 @@ public class FastJsonConf {
         System.out.println("i am htf too");
         System.out.println("who are you??");
     }
+    public void m1(String name){
+        String password ="maodi";
+        System.out.println(password);
+    }
 }
