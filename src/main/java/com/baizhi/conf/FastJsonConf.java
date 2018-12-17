@@ -34,6 +34,7 @@ public class FastJsonConf {
         System.out.println("i am maodi!!!!!");
         System.out.println();
         System.out.println();
+        System.out.println("i am htf too");
         System.out.println("who are you??");
     }
 }
